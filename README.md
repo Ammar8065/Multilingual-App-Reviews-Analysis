@@ -14,7 +14,7 @@ A comprehensive **machine learning system** that analyzes multilingual mobile ap
 pip install -r requirements.txt
 streamlit run streamlit_dashboard.py
 ```
-**→ Opens interactive dashboard at http://localhost:8501**
+**→ Opens interactive dashboard at [http://localhost:8501](https://appreview.streamlit.app/)**
 
 ### **Option 2: Complete Analysis Pipeline**
 ```bash
